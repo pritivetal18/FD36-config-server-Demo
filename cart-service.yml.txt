@@ -1,5 +1,5 @@
 server:
   port: 9091
 
-message: Welcome to Cart Service 
+msg:"Welcome to Cart Service" 
 
