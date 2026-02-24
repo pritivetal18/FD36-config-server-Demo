@@ -1,6 +1,4 @@
-msg : "Welcome to Rest-API"
-
 server:
   port:4444
-
+msg : "Welcome to Rest-API"
 
