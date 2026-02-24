@@ -1,4 +1,5 @@
 server:
-  port:4444
-msg : "Welcome to Rest-API"
+  port: 9091
+
+message: Welcome to Cart Service 
 
